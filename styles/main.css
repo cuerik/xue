@@ -1,0 +1,157 @@
+@charset "UTF-8";
+/* CSS Document */
+
+body {
+	`font-family: "Helvetica Neue", Helvetica;
+	background-color: #CCCCCC;
+	width: 1000px;
+	padding: 0px;
+	margin-top: 0px;
+	margin-right: auto;
+	margin-bottom: 0px;
+	margin-left: auto;
+	font-family: "Helvetica Neue", Helvetica;
+}
+#maintext td {
+	margin-top: 0px;
+	margin-right: auto;
+	margin-bottom: 0px;
+	margin-left: auto;
+	padding: 0px;
+	float: none;
+}
+#maintext {
+	background-color: #FFFFFF;
+	color: #333;
+	margin: 0px;
+	padding: 0px;
+}
+#Titlebar {
+	display: block;
+	background-color: #444444;
+	background-repeat: repeat;
+	margin: 0px;
+	padding: 0px;
+}
+#top {
+	display: block;
+	background-color: #000;
+	background-repeat: repeat;
+	padding: 0px;
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-bottom: -20px;
+	margin-left: 0px;
+}
+#SubTitle {
+	display: block;
+	color: #FFF;
+	padding: 0px;
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-bottom: -30px;
+	margin-left: 20px;
+	font-size: 220%;
+}
+#spacer {
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-bottom: -60px;
+	margin-left: 0px;
+	padding-top: 0px;
+	padding-right: 0px;
+	padding-bottom: 0px;
+	padding-left: 0px;
+}
+#mainnav ul {
+	padding: 0px;
+	list-style-type: none;
+	color: #FFF;
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+	margin-left: 0px;
+}
+#mainnav a {
+	width: 16.6%;
+	display: block;
+	float: left;
+	text-align: center;
+	background-color: #000;
+	color: #FFF;
+	margin-top: -6px;
+	text-transform: capitalize;
+	margin-bottom: 0px;
+}
+#Titledesc {
+	display: block;
+	color: #c4b264;
+	padding: 0px;
+	margin-top: 40px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+	margin-left: 40px;
+}
+#footer {
+	background-color: #444444;
+	color: #FFF;
+	text-align: center;
+	margin: 0px;
+	padding: 0px;
+}
+#maintext img {
+	display: block;
+	margin-right: auto;
+	margin-left: auto;
+	padding: 0px;
+	margin-top: 0px;
+	margin-bottom: 0px;
+}
+p {
+	padding: 0px;
+	margin-top: 0px;
+	margin-right: 40px;
+	margin-bottom: 0px;
+	margin-left: 40px;
+}
+article {
+	margin: 0px;
+	padding: 0px;
+}
+#wrapper #top img {
+	top: 50px;
+}
+a {
+	font-weight: bold;
+	text-decoration: none;
+}
+p #frontpage {
+	display: block;
+	margin-right: auto;
+	margin-left: auto;
+	padding: 0px;
+	margin-top: 0px;
+	margin-bottom: 0px;
+}
+#maintext #projects {
+	display: block;
+	margin-right: 0px;
+	margin-left: 50px;
+	padding: 0px;
+	margin-top: 0px;
+	margin-bottom: 0px;
+}
+#maintext h3 {
+	margin-left: 20px;
+}
+#maintext h4 {
+	margin-left: 20px;
+
+.easyhtml5video {
+	display: block;
+	margin-right: auto;
+	margin-left: auto;
+	padding: 0px;
+	margin-top: 0px;
+	margin-bottom: 0px;
+}

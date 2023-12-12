@@ -1,0 +1,56 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="UTF-8">
+<!-- TemplateBeginEditable name="doctitle" -->
+<title>Our Research</title>
+<!-- TemplateEndEditable -->
+<link href="styles/main.css" rel="stylesheet" type="text/css">
+<!-- TemplateBeginEditable name="head" -->
+<!-- TemplateEndEditable -->
+</head>
+
+<body>
+<div id="wrapper">
+  <header id="top">
+    
+    <img src="CULogo with text.png" width="377" height="122" alt="logo">
+    <nav id="mainnav">
+      <ul>
+        <li><a href="index.html">HOME</a></li>
+        <li><a href="projects.html">PROJECTS</a></li>
+        <li><a href="publications.html">PUBLICATIONS</a></li>
+        <li><a href="support.html">SUPPORT</a></li>
+        <li><a href="contact.html">CONTACT</a></li>
+      </ul>
+    </nav>
+    <p data-gwd-node="true" data-gwd-uuid="yb2l2qbzlazc"> </p>
+    
+    <article id="Titlebar">
+      <article id="SubTitle">
+       	<p id="spacer"> </p>
+        <h1>INSERT TITLE</h1>
+      </article>
+      <article id="Titledesc">
+        <h2>Insert Title Description</h2>
+      	<p data-gwd-node="true" data-gwd-uuid="yb2l2qbzlazc"> </p>
+      </article>
+    </article>
+  </header>
+  </div>
+<article id=maintext>
+  	<p data-gwd-node="true" data-gwd-uuid="yb2l2qbzlazc"> </p>
+  
+  <p data-gwd-node="true" data-gwd-uuid="yb2l2qbzlazc"> </p>
+    <p data-gwd-node="true" data-gwd-uuid="yb2l2qbzlazc"> </p>
+    
+</p>
+  </article>
+  <footer id="footer">
+  <p data-gwd-node="true" data-gwd-uuid="yb2l2qbzlazc"> </p>
+  &copy; 2014 University of Colorado Boulder-Xue Lab
+  <p data-gwd-node="true" data-gwd-uuid="yb2l2qbzlazc"> </p>
+  </footer>
+</div>
+</body>
+</html>
